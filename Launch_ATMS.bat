@@ -1,4 +1,7 @@
 @echo off
+taskkill /FI "WINDOWTITLE eq ATMS_Launcher" /T /F >nul 2>&1
+title ATMS_Launcher
+
 echo ========================================
 echo  Anegudde Inventory System - Starting
 echo ========================================
