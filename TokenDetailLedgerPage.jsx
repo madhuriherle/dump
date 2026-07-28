@@ -242,7 +242,7 @@ const TokenDetailLedgerPage = () => {
 
       {/* Canteen-style Print Header */}
       <div className="token-print-header text-center">
-        <h1 className="text-xl font-bold text-text-main uppercase font-temple">ಆನೆಗುಡ್ಡೆ ಶ್ರೀ ವಿನಾಯಕ ದೇವಸ್ಥಾನ, ಕುಂಭಾಶಿ (ಅನ್ನದಾನ)</h1>
+        <h1 className="text-xl font-bold text-text-main uppercase font-temple">ಆನೆಗುಡ್ಡೆ ಶ್ರೀ ವಿನಾಯಕ ದೇವಸ್ಥಾನ, ಕುಂಭಾಸಿ (ಅನ್ನದಾನ)</h1>
         <p className="text-sm font-bold text-text-main mt-1">
           TOKEN DETAILS REPORT FOR DATE : <span className="font-extrabold">{formatDate(selectedDate)}</span>
         </p>
